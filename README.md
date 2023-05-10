@@ -8,6 +8,7 @@ General data structures include Arrays, files, linked lists, stacks, queues, tre
 Data structures, depending upon their organization are mainly classified into two types:
 
 **Linear Data Structures:**
+
 Elements are accessed in 'Linear'/ Sequential order but it is not compubory to store all elements sequentially. Examples: Linked Lists, Stacks alld Queues.
 
 **Non-linear Data Structures:**
