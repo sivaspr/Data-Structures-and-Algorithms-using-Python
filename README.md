@@ -10,11 +10,11 @@ Data structures, depending upon their organization are mainly classified into tw
 
 **Linear Data Structures:**
 
-Elements are accessed in 'Linear'/ Sequential order but it is not compubory to store all elements sequentially. Examples: Linked Lists, Stacks alld Queues.
+Elements are accessed in 'Linear'/ Sequential order but it is not compulsory to store all elements sequentially. Examples: Linked Lists, Stacks and Queues.
 
 **Non-linear Data Structures:**
 
-Elements of this data structure arc stored /accessed in a non-linear order. Examples: Trees and graphs.
+Elements of this data structure are stored /accessed in a non-linear order. Examples: Trees and graphs.
 
 **Abstract Data Type (ADT)**
 
