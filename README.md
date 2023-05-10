@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms-using-Python
 
-**#Data Structures**
+**Data Structures**
 
 Data structure is a particular way of storing and organizing data in a computer so that it can be used efficiently.
 
